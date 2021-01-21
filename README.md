@@ -36,3 +36,7 @@ To run the neural network training:
 ```
 $ python train.py config_file
 ```
+
+## Analysis
+
+will come soon
