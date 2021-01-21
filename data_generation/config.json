@@ -1,0 +1,38 @@
+{
+    "parameters": {
+        "lattice_constant": [
+            30.0,
+            40.0,
+            "nm"
+        ],
+        "peak_width": [
+            100.0,
+            250.0,
+            "nm"
+        ],
+        "pos_variance": [
+            0.0,
+            15.0,
+            "nm2"
+        ],
+        "sphere_radius": [
+            8.0,
+            13.0,
+            "nm"
+        ],
+        "wavelength": [
+            1.2,
+            1.5,
+            "angstrom"
+        ],
+        "beam_inclination": [
+            0.15,
+            0.18,
+            "deg"
+        ]
+    },
+    "n_angles": 120,
+    "max_nonzeros": 5,
+    "n_train": 500000,
+    "n_validation": 50000
+}
